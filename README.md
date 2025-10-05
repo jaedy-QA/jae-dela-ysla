@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a fresh graduate from Pamantasan ng Lungsod ng Muntinlupa and an aspiring QA Engineer. With almost a year of experience working in a professional environment as an intern, I am currently focusing on enhancing my skills in manual testing while learning automation at the same time. I am a QA Analyst Intern, and even though I’m still an intern, I make sure to use my free time to keep learning and improving my skills. I believe that continuous learning helps me understand the testing process better and prepare myself for future opportunities in the QA field.
+I am a fresh graduate from Pamantasan ng Lungsod ng Muntinlupa and an aspiring QA Engineer. With almost a year of experience working in a professional environment as an intern, I am currently focusing on enhancing my skills in manual testing while learning automation at the same time. I am currently a QA Analyst Intern, and even though I’m still an intern, I make sure to use my free time to keep learning and improving my skills. I believe that continuous learning helps me understand the testing process better and prepare myself for future opportunities in the QA field.
 
 ## Testing Skills
 - ✅ Manual Testing
